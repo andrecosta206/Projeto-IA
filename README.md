@@ -10,12 +10,51 @@ Utilizando algoritmos genéticos e o algoritmo de busca A*, a aplicação distri
 
 ### Tecnologias Utilizadas
  - **Python**<br />
- - **Algoritmos Genéticos** <br />
- - **Algoritmo de Busca A***<br />
- - **Leitura e Manipulação de Matrizes**<br />
+ - **Algoritmos Genéticos** 
+ - **Algoritmo de Busca A***
+ - **Leitura e Manipulação de Matrizes**
  
 ## Exemplo de data set
-
+```
+ 37 21 
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3
+ 2 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1
+ 1 0 2 1 0 1 1 0 2 1 0 1 1 0 1 1 0 1 1 0 1
+ 1 0 1 1 0 1 1 0 1 1 0 2 1 0 1 2 0 1 1 0 1
+ 1 0 2 1 0 1 2 0 1 1 0 1 1 0 1 1 0 1 1 0 1
+ 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0
+ 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1
+ 1 0 1 1 0 1 1 0 1 1 0 2 1 0 1 1 0 1 1 0 1
+ 1 0 1 1 0 1 2 0 1 2 0 1 1 0 1 1 0 1 2 0 1
+ 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1
+ 1 4 1 1 0 1 1 0 1 1 0 1 1 0 2 1 0 1 1 0 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1
+ 1 0 1 1 0 1 1 0 1 2 0 1 1 0 1 1 0 1 1 0 1
+ 1 0 1 1 0 1 1 0 1 1 0 2 2 0 2 1 0 2 1 0 2
+ 1 0 1 2 0 1 1 0 1 1 0 1 1 0 1 2 0 1 1 0 1
+ 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 2 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1
+ 1 0 2 1 0 1 1 0 2 1 0 1 1 0 1 1 0 1 1 0 1
+ 1 0 1 1 0 1 1 0 1 1 0 2 1 0 1 2 0 1 1 0 1
+ 1 0 2 1 0 1 2 0 1 1 0 1 1 0 1 1 0 1 1 0 1
+ 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1
+ 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1
+ 1 0 1 1 0 1 1 0 1 1 0 2 1 0 1 1 0 1 1 0 1
+ 1 0 1 1 0 1 2 0 1 2 0 1 1 0 1 1 0 1 2 0 1
+ 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1
+ 1 0 1 1 0 1 1 0 1 1 0 1 1 0 2 1 0 1 1 0 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1
+ 1 0 1 1 0 1 1 0 1 2 0 1 1 0 1 1 0 1 1 0 1
+ 1 0 1 1 0 1 1 0 1 1 0 2 2 0 2 1 0 2 1 0 2
+ 1 0 1 2 0 1 1 0 1 1 0 1 1 0 1 2 0 1 1 0 1
+ 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 
+```
 
  
 ## Como Executar
@@ -23,4 +62,6 @@ Utilizando algoritmos genéticos e o algoritmo de busca A*, a aplicação distri
 **Configuração Inicial:** Defina os parâmetros dos algoritmos genéticos e do algoritmo A* conforme necessário. <br />
 **Execução:** Execute a aplicação para calcular a distribuição de produtos e as rotas otimizadas. <br />
 **Resultados:** Analise os resultados gerados, que incluem a ordem de recolha para cada agente e as rotas calculadas. <br />
+
+![image](https://github.com/user-attachments/assets/37f45fc7-3663-457b-8eca-e2afb57f8d36)
 
