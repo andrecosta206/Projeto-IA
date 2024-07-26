@@ -55,6 +55,11 @@ Utilizando algoritmos genéticos e o algoritmo de busca A*, a aplicação distri
  1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1
  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 
 ```
+- '0' representa o caminho que o agente pode seguir
+- '1' são as estantes
+- '2' são os produtos
+- '3' é a saída
+- '4' são os empelhadores
 
  
 ## Como Executar
